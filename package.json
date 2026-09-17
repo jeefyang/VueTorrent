@@ -3,7 +3,7 @@
   "private": true,
   "version": "2.35.0",
   "type": "module",
-  "packageManager": "npm@11.6.2",
+  "packageManager": "pnpm@12.4.2",
   "scripts": {
     "start": "vite",
     "dev": "vite",

@@ -1,0 +1,16 @@
+allowBuilds:
+  "@parcel/watcher": true
+  "unrs-resolver": true
+
+  
+minimumReleaseAgeExclude:
+  - "@intlify/*"
+  - "@vue/*"
+  - "vue"
+  - "vue-i18n"
+  - "pixi.js"
+  - "is-core-module"
+  - "node-releases"
+  - "type-fest"
+  - "typed-array-byte-offset"
+  - which-typed-array
